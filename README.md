@@ -59,14 +59,14 @@ These datasets were merged using the customer **ID** to create a unified custome
 - One-Hot Encoding
 - Train-Test Split
 
-![One-Hot Encoding and Train-Test Split](images/code_03_encoding_and_split.png)
+![One-Hot Encoding and Train-Test Split](code_03_encoding_and_split.png)
 
 ### 4. Model Building
 Models used:
 - Linear Regression
 - Random Forest Regressor
 
-![Model Training](images/code_04_model_training.png)
+![Model Training](code_04_model_training.png)
 
 ### 5. Model Evaluation
 Evaluation Metrics:
@@ -74,7 +74,7 @@ Evaluation Metrics:
 - RMSPE
 - R² Score
 
-![Model Evaluation](images/code_05_model_evaluation.png)
+![Model Evaluation](code_05_model_evaluation.png)
 
 ---
 
@@ -82,9 +82,9 @@ Evaluation Metrics:
 
 The Random Forest model was used to identify which features contribute most to predicting credit card consumption. Recent transaction history (`cc_cons_may`, `cc_cons_apr`) emerged as the strongest predictors, followed by debit card consumption.
 
-![Feature Importance Code](images/code_06_feature_importance.png)
+![Feature Importance Code](code_06_feature_importance.png)
 
-![Feature Importance Chart](images/feature_importance_pro.png)
+![Feature Importance Chart](feature_importance_pro.png)
 
 ---
 
@@ -95,9 +95,9 @@ The Random Forest model was used to identify which features contribute most to p
 | **Linear Regression** | **2609.21** | **0.8645** | **0.2689** |
 | Random Forest | 2854.63 | 0.8378 | 0.2871 |
 
-![Model Comparison Code](images/code_07_final_comparison.png)
+![Model Comparison Code](code_07_final_comparison.png)
 
-![Model Comparison Chart](images/model_comparison.png)
+![Model Comparison Chart](model_comparison.png)
 
 ### ✅ Best Model
 **Linear Regression** performed better across all evaluation metrics and was selected as the final model.
