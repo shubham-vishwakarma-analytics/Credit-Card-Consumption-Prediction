@@ -42,11 +42,11 @@ These datasets were merged using the customer **ID** to create a unified custome
 
 **Loading & merging the three source datasets:**
 
-![Loading and Merging Data](images/code_01_load_and_merge_data.png)
+![Loading and Merging Data](code_01_load_and_merge_data.png)
 
 **Treating missing values with median / mode imputation:**
 
-![Missing Value Treatment](images/code_02_missing_value_treatment.png)
+![Missing Value Treatment](code_02_missing_value_treatment.png)
 
 ### 2. Exploratory Data Analysis (EDA)
 - Target distribution
