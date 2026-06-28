@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458.svg)](https://pandas.pydata.org/)
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)]()
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](Predicted_CC_Consumption.csv)
 
 ## 📌 Project Overview
 This project aims to predict future credit card consumption of bank customers using demographic information, transaction history, loan details, investment data, and banking behavior.
